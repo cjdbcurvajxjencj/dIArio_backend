@@ -1,0 +1,6 @@
+Flask
+gunicorn
+google-generativeai
+pydub
+Flask-Cors
+gevent
